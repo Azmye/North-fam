@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Azmye/North-fam/static/css/main.11f246a5.css",
+    "main.js": "/Azmye/North-fam/static/js/main.1635af16.js",
+    "static/js/787.dffdfd71.chunk.js": "/Azmye/North-fam/static/js/787.dffdfd71.chunk.js",
+    "static/media/hero.png": "/Azmye/North-fam/static/media/hero.a168f5ee97b6c19e8615.png",
+    "static/media/crew-1.png": "/Azmye/North-fam/static/media/crew-1.277834cd985eb62a674f.png",
+    "static/media/9.jpg": "/Azmye/North-fam/static/media/9.d65e9aa3490625cda10e.jpg",
+    "static/media/5.jpg": "/Azmye/North-fam/static/media/5.7de55912ac2827d724f4.jpg",
+    "static/media/2022.jpg": "/Azmye/North-fam/static/media/2022.cdaa44dadd09ca124be7.jpg",
+    "static/media/4.jpg": "/Azmye/North-fam/static/media/4.cdaa44dadd09ca124be7.jpg",
+    "static/media/1.jpg": "/Azmye/North-fam/static/media/1.c0085b75e2f8a1780804.jpg",
+    "static/media/3.jpg": "/Azmye/North-fam/static/media/3.e5c85e57252656f627cf.jpg",
+    "static/media/2.jpg": "/Azmye/North-fam/static/media/2.b057b6861cdb7fbf81fe.jpg",
+    "static/media/2021.jpg": "/Azmye/North-fam/static/media/2021.3a9fae75fea874361ab9.jpg",
+    "static/media/7.jpg": "/Azmye/North-fam/static/media/7.3a9fae75fea874361ab9.jpg",
+    "static/media/8.jpg": "/Azmye/North-fam/static/media/8.12c3f0de07cc8d1f3b43.jpg",
+    "static/media/2019.jpg": "/Azmye/North-fam/static/media/2019.dae1649322c53cb2258b.jpg",
+    "static/media/6.jpg": "/Azmye/North-fam/static/media/6.6727a2fed2a6b7aec4dd.jpg",
+    "static/media/2020.jpg": "/Azmye/North-fam/static/media/2020.afd59fba79d9335301d8.jpg",
+    "static/media/Logo-label.svg": "/Azmye/North-fam/static/media/Logo-label.4a22ebf7105bc053077fd96b8e84dd4d.svg",
+    "static/media/bg-nakama.svg": "/Azmye/North-fam/static/media/bg-nakama.5df1a7bbe058eab62b1f.svg",
+    "static/media/Hero.svg": "/Azmye/North-fam/static/media/Hero.09591bc7a12cd7d045a9.svg",
+    "index.html": "/Azmye/North-fam/index.html",
+    "main.11f246a5.css.map": "/Azmye/North-fam/static/css/main.11f246a5.css.map",
+    "main.1635af16.js.map": "/Azmye/North-fam/static/js/main.1635af16.js.map",
+    "787.dffdfd71.chunk.js.map": "/Azmye/North-fam/static/js/787.dffdfd71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f246a5.css",
+    "static/js/main.1635af16.js"
+  ]
+}
