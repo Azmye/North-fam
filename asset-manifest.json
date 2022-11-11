@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/North-fam/static/css/main.465d4902.css",
-    "main.js": "/North-fam/static/js/main.ff80b06b.js",
+    "main.js": "/North-fam/static/js/main.16af39ad.js",
     "static/js/787.dffdfd71.chunk.js": "/North-fam/static/js/787.dffdfd71.chunk.js",
+    "static/media/12.JPG": "/North-fam/static/media/12.5fe342e3316911f23e98.JPG",
+    "static/media/10.JPG": "/North-fam/static/media/10.46695faeb0a10cbbd1ac.JPG",
+    "static/media/11.JPG": "/North-fam/static/media/11.f4b22f03a36e7d11ea2d.JPG",
     "static/media/hero.png": "/North-fam/static/media/hero.a168f5ee97b6c19e8615.png",
     "static/media/9.jpg": "/North-fam/static/media/9.d65e9aa3490625cda10e.jpg",
     "static/media/5.jpg": "/North-fam/static/media/5.7de55912ac2827d724f4.jpg",
@@ -22,11 +25,11 @@
     "static/media/Hero.svg": "/North-fam/static/media/Hero.09591bc7a12cd7d045a9.svg",
     "index.html": "/North-fam/index.html",
     "main.465d4902.css.map": "/North-fam/static/css/main.465d4902.css.map",
-    "main.ff80b06b.js.map": "/North-fam/static/js/main.ff80b06b.js.map",
+    "main.16af39ad.js.map": "/North-fam/static/js/main.16af39ad.js.map",
     "787.dffdfd71.chunk.js.map": "/North-fam/static/js/787.dffdfd71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.465d4902.css",
-    "static/js/main.ff80b06b.js"
+    "static/js/main.16af39ad.js"
   ]
 }
